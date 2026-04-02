@@ -56,42 +56,63 @@ Users
 Viewing History
 
 Key Concepts Used:
-SQL Joins 
+SQL Joins
+
 GROUP BY & HAVING
+
 Subqueries
+
 Aggregations
+
 Real-world analysis queries
 
 ⚙️ SQL Concepts Covered
 Table Creation & Data Insertion
+
 SELECT Queries
+
 WHERE, LIKE, BETWEEN
+
 ORDER BY
+
 DISTINCT
+
 Aggregate Functions (COUNT, AVG, MAX)
+
 GROUP BY & HAVING
+
 JOIN Operations
 
 📊 Sample Analysis Performed
 Top-rated movies
+
 Department-wise salary insights
+
 Movies available on OTT platforms
+
 Actor-wise movie count
+
 User viewing behavior
 
 💻 Tools Used
 MySQL 
+
 DBMS Concepts
 
 📁 Files in Repository
 movies_table.pdf
+
 employee_table.pdf
+
 ott_movies.pdf
 
 🚀 Learning Outcomes
 Strong understanding of SQL fundamentals
+
 Hands-on experience with relational databases
+
 Ability to analyze structured data
+
 Practice with real-world datasets
 
 👩‍💻 Author
