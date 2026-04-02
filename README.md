@@ -14,6 +14,7 @@ The projects included are:
 📺 OTT Movies Analytics System
 
 📁 Project Details
+
 🎬 1. Movies Database
 
 Contains historical movie dataset
@@ -56,6 +57,7 @@ Users
 Viewing History
 
 Key Concepts Used:
+
 SQL Joins
 
 GROUP BY & HAVING
@@ -67,6 +69,7 @@ Aggregations
 Real-world analysis queries
 
 ⚙️ SQL Concepts Covered
+
 Table Creation & Data Insertion
 
 SELECT Queries
@@ -84,6 +87,7 @@ GROUP BY & HAVING
 JOIN Operations
 
 📊 Sample Analysis Performed
+
 Top-rated movies
 
 Department-wise salary insights
@@ -95,11 +99,13 @@ Actor-wise movie count
 User viewing behavior
 
 💻 Tools Used
+
 MySQL 
 
 DBMS Concepts
 
 📁 Files in Repository
+
 movies_table.pdf
 
 employee_table.pdf
@@ -107,6 +113,7 @@ employee_table.pdf
 ott_movies.pdf
 
 🚀 Learning Outcomes
+
 Strong understanding of SQL fundamentals
 
 Hands-on experience with relational databases
@@ -116,4 +123,5 @@ Ability to analyze structured data
 Practice with real-world datasets
 
 👩‍💻 Author
+
 Robisha R P
