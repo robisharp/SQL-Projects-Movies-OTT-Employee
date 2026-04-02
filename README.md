@@ -8,32 +8,51 @@ This repository contains multiple SQL-based projects designed to demonstrate dat
 The projects included are:
 
 🎬 Movies Database
+
 👨‍💼 Employee Database
+
 📺 OTT Movies Analytics System
 
 📁 Project Details
 🎬 1. Movies Database
+
 Contains historical movie dataset
+
 Includes actor, language, and director details
+
 Useful for practicing filtering and sorting queries
 
 👨‍💼 2. Employee Database
+
 50+ employee records
+
 Covers departments, salary, experience, and joining date
 Used for:
+
 Filtering
+
 Aggregation (AVG, COUNT, MAX)
+
 Sorting and pattern matching
 
 📺 3. OTT Movies Analytics Project (Main Project ⭐)
+
 A complete database system simulating OTT platforms like Netflix.
+
 Tables Included:
+
 Movies
+
 Actors
+
 Movie Cast
+
 OTT Platforms
+
 Movie Streaming
+
 Users
+
 Viewing History
 
 Key Concepts Used:
